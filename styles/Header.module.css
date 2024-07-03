@@ -1,0 +1,29 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header{
+    background-color: #444444;
+}
+
+.logo , .link{
+    color: #fff;
+    font-size: 18px;
+}
+.logo{
+    font-size: 28px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 0 18px 0;
+    align-items: center;
+}
+.list{
+    margin-right: 40px;
+}
+.list:last-child{
+    margin-right:0
+}
