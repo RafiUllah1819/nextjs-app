@@ -158,7 +158,7 @@ const EditBook = () => {
               required
             />
           </div>
-          <Button type="submit">Update Book</Button>
+          <Button type="submit">Update</Button>
         </Form>
       </Container>
     </div>

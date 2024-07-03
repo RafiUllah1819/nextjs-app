@@ -21,7 +21,7 @@ const BookList = ({ books }) => {
   // console.log("bookss", books);
   return (
     <div>
-      <h1>Available all Books</h1>
+      <h1>Available Books</h1>
       <BooksList books={books} />
     </div>
   );
